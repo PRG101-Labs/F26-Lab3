@@ -99,12 +99,14 @@ Write a program that reads values from standard input from user(using input func
 - Make sure screenshots are not blurry, they should be easily readable.
 - Please do not leave empty lines in your code, so that your script can fit in one screen.
 - Submit individual screenshots of the following scripts on blackboard. If the screenshots do not correctly show the information mentioned above, you will need to re-do and resubmit lab with late penalty in effect.
-    -lab3a.py
+    
+    - lab3a.py
     - lab3b.py
     - lab3c.py
     - lab3d.py
     - lab3e.py
     - lab3f.py
     - lab3g.py
+
 
 
